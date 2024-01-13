@@ -1,5 +1,21 @@
 <?php
 
+$config['app_version'] = '{app_version}';
+$config['encryption_key'] = '{encryption_key}';
+$config['session_crypt_key'] = '{session_crypt_key}';
+$config['database'] = array(
+	'expressionengine' => array(
+		'hostname' => '34.134.151.124:25060',
+		'database' => 'defaultdb',
+		'username' => 'root',
+		'password' => '.h1t,aOmo|SD9","',
+		'dbprefix' => 'exp_',
+		'char_set' => '{db_char_set}',
+		'dbcollat' => '{db_collat}',
+		'port'     => '{db_port}'
+	),
+);
+
 /*
 |--------------------------------------------------------------------------
 | Index File
