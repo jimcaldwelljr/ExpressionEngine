@@ -5,14 +5,14 @@ $config['encryption_key'] = '{encryption_key}';
 $config['session_crypt_key'] = '{session_crypt_key}';
 $config['database'] = array(
 	'expressionengine' => array(
-		'hostname' => '34.134.151.124:3306',
+		'hostname' => '34.134.151.124',
 		'database' => 'mysql',
 		'username' => 'ee',
 		'password' => '=TqXk:=#^o9Ng#)5',
 		'dbprefix' => 'exp_',
 		'char_set' => '{db_char_set}',
 		'dbcollat' => '{db_collat}',
-		'port'     => '{db_port}'
+		'port'     => '3306'
 	),
 );
 
