@@ -7,8 +7,8 @@ $config['database'] = array(
 	'expressionengine' => array(
 		'hostname' => '34.134.151.124:25060',
 		'database' => 'defaultdb',
-		'username' => 'root',
-		'password' => '.h1t,aOmo|SD9","',
+		'username' => 'ee',
+		'password' => '=TqXk:=#^o9Ng#)5',
 		'dbprefix' => 'exp_',
 		'char_set' => '{db_char_set}',
 		'dbcollat' => '{db_collat}',
