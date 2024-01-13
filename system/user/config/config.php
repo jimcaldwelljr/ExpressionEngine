@@ -5,7 +5,7 @@ $config['encryption_key'] = '{encryption_key}';
 $config['session_crypt_key'] = '{session_crypt_key}';
 $config['database'] = array(
 	'expressionengine' => array(
-		'hostname' => '34.134.151.124:25060',
+		'hostname' => '34.134.151.124:3306',
 		'database' => 'defaultdb',
 		'username' => 'ee',
 		'password' => '=TqXk:=#^o9Ng#)5',
